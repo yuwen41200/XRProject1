@@ -15,6 +15,9 @@ public class PauseGame : MonoBehaviour {
             Time.timeScale = _isPaused ? 1 : 0;
             _isPaused = !_isPaused;
         }
+        var mx = Input.GetAxis("Mouse X");
+        var my = Input.GetAxis("Mouse Y");
+        transform.Rotate(-my, mx, 0);
     }
 
 }
