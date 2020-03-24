@@ -358,10 +358,10 @@ public class EnemyController : MonoBehaviour
         m_EnemyManager.UnregisterEnemy(this);
 
         // loot an object
-        if (TryDropItem())
-        {
-            Instantiate(lootPrefab, transform.position, Quaternion.identity);
-        }
+        //if (TryDropItem())
+        //{
+        //    Instantiate(lootPrefab, transform.position, Quaternion.identity);
+        //}
 
         // this will call the OnDestroy function
         Destroy(gameObject, deathDuration);
