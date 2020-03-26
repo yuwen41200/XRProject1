@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 615896be576162f4e8c2f4c2471d0e3f
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -2790990264680522458
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0.
+  - first:
+      74: 8041662691023887784
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0..001
+  - first:
+      74: 6833787307459842242
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0.0_86
+  - first:
+      74: 2267074073281110329
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0|
+  - first:
+      74: 92067461427352959
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0|.001
+  - first:
+      74: -4402889555464800204
+    second: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0|A_17
+  - first:
+      74: -8157751884929445087
+    second: body|body|body|Armature|mixamo.com|Layer0.001|body|Armature|mixa
+  - first:
+      74: -21767260678224157
+    second: body|body|body|Armature|mixamo.com|Layer0.001|body|Armature|mixa.001
+  - first:
+      74: 2649969347887750706
+    second: body|body|body|Armature|mixamo.com|Layer0.001|body|Armature|mixamo.c
+  - first:
+      74: -9125775058448692858
+    second: body|body|body|Armature|mixamo.com|Layer0|body|Armature|mixamo.c
+  - first:
+      74: 4876581065324394915
+    second: body|body|body|Armature|mixamo.com|Layer0|body|Armature|mixamo.c.001
+  - first:
+      74: 670972072819683698
+    second: body|body|body|Armature|mixamo.com|Layer0|body|Armature|mixamo.com|L
+  - first:
+      74: 5936725513653523439
+    second: body|gun|gun|Armature.001Action|gun|Armature.001Action
+  - first:
+      74: -3370771566618946401
+    second: body|gun|gun|Armature.003|Armature.001|Armature.001Action|Armatu_5e0
+  - first:
+      74: 6855910334681715010
+    second: gun|gun|gun|Armature.001Action|gun|Armature.001Action
+  - first:
+      74: 4116839654529372372
+    second: gun|gun|gun|Armature.003|Armature.001|Armature.001Action|Armatu_5e0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #26.003
+    second: {fileID: 2100000, guid: 7c3979d6bf6c21642867d5c1ba309f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #28.003
+    second: {fileID: 2100000, guid: 9b3f5e2b2395ad646b0d349cec12d54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #29.003
+    second: {fileID: 2100000, guid: 270f7f3b4642d184c8413b2c99c96eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #31.003
+    second: {fileID: 2100000, guid: 28b00babb601c4d498b7f68e4efbca99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #45.003
+    second: {fileID: 2100000, guid: 91bf2185d2f3c4a48af2e04cb38d8fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0004_1.dds.003
+    second: {fileID: 2100000, guid: 6af2c85445a54e546a79a69dab0ceb95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0007_1.dds.003
+    second: {fileID: 2100000, guid: 67ed453695a824f4e8b78e082a431895, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0.
+      takeName: body|body|body|Armature.002|Armature|Armature|mixamo.com|Layer0.
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gun|gun|gun|Armature.003|Armature.001|Armature.001Action|Armatu_5e0
+      takeName: gun|gun|gun|Armature.003|Armature.001|Armature.001Action|Armatu_5e0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
